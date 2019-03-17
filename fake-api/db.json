@@ -1,0 +1,471 @@
+{
+    "users" :[
+        {"username" : "firda", "password" : "asdasd", "email" : "firda@mail.com", "phone" : "0827896"}
+    ],
+    "products":[
+        {
+            "id": 1,
+            "name" : "Artline Stix",
+            "category" : "brush-pen",
+            "merk" : "artline",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2016/9/9/1325149/1325149_d8cbf445-f019-4f55-850a-3044117d7f62.jpg           ",
+            "price" : 10000 , 
+            "stock" : 10,
+            "desc" : "ARTLINE STIX BRUSH MARKER Brush pen cocok digunakan untuk mewarnai, untuk menggambar, dan keperluan lainnya yang berhubungan dengan seni, tersedia dalam 20 varian warna"},
+        {
+            "id": 2,
+            "name" : "Artline Stix Set",
+            "category" : "brush-pen",
+            "merk" : "artline",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/8/27/6464162/6464162_df32b645-8ffc-4fcd-8ed2-0800aae57591_600_600.jpg",
+            "price" : 105000, 
+            "stock" : 10,
+            "desc" : "Set ini berisi 12 warna : Black, Red, Yellow Green, Royal Blue, Green, Yellow, Orange, Pink, Light Blue, Magenta, Apricot, Brown"
+        },
+        {
+            "id": 3,
+            "name" : "Tombow Dual Brush Pen Set 10 Bright",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://imgs.michaels.com/MAM/assets/1/726D45CA1C364650A39CD1B336F03305/img/333709043F1F47B1847DC3347F0D435C/10514323.jpg?fit=inside|540:540",
+            "price" : 370000, 
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Include: 755 Rubine Red, 743 Hot Pink, 933 Orange, 055 Process Yellow, 133 Chartreuse, 173 Willow Green, 493 Reflex Blue, 665 Purple, 636 Imperial Purple, N00 Colorless Blender"
+        },
+        {
+            "id": 4,
+            "name" : "Tombow Dual Brush Pen Set 10 Pastel",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56187_1.jpg",
+            "price" : 370000, 
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 761 Carnation, 723 Pink, 991 Light Ochre, 062 Pale Yellow, 243 Mint, 451 Sky Blue, 452 Process Blue, 553 Mist Purple, 620 Lilac, N00 Colorless Blender"
+        },
+        {
+            "id": 5,
+            "name" : "Tombow Dual Brush Pen Set 10 Tropical",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56189_1.jpg",
+            "price" : 370000, 
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium, or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 133 Chartreuse, 291 Alice Blue, 403 Bright Blue, 407 Tiki Teal, 379 Jade Green, 685 Deep Magenta, 856 Chinese Red, 817 Mauve, 803 Pink Punch, N00 Colorless Blender"
+        },
+        {
+            "id": 6,
+            "name" : "Tombow Dual Brush Pen Set 10 Muted",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56186_1.jpg",
+            "price" : 370000, 
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 837 Wine Red, 947 Burnt Sienna, 026 Yellow Gold, 249 Hunter Green, 528 Navy Blue, 679 Dark Plum, 969 Chocolate, N35 Cool Gray 12, N15 Black, N00 Colorless Blender"
+        },
+        {
+            "id": 7,
+            "name" : "Tombow Dual Brush Pen Set 10 Primary",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56167_1_2.jpg",
+            "price" : 370000, 
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 847 Crimson, 925 Scarlet, 055 Process Yellow, 245 Sap Green, 346 Sea Green, 476 Cyan, 565 Deep Blue, 879 Brown, N15 Black, N00 Colorless Blender"
+        },
+        {
+            "id": 8,
+            "name" :"Tombow Dual Brush Pen Set 10 Secondary",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56168_1.jpg",
+            "price" : 370000, 
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 885 Warm Red, 933 Orange, 993 Chrome Orange, 158 Dark Olive, 177 Dark Jade, 603 Periwinkle, 679 Dark Plum, 977 Saddle Brown, 992 Sand, N00 Colorless Blender"
+        },
+        {
+            "id" : 9,
+            "name" : "Tombow Dual Brush Pen Set 10 Galaxy",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56188_1.jpg",
+            "price" : 37000,
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 725 Rhodamine Red, 755 Rubine Red, 296 Green, 443 Turquoise, 555 Ultramarine, 676 Royal Purple, 606 Violet, N55 Cool Gray 7, N25 Lamp Black, N00 Colorless Blender"
+
+        },
+        {
+            "id" : 10,
+            "name" : "Tombow Dual Brush Pen Set 10 Landscape",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56169_1.jpg",
+            "price" : 370000,
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 990 Light Sand, 947 Burnt Sienna, 899 Redwood, N57 Warm Gray 5, 228 Gray Green, 249 Hunter Green, 526 True Blue, 528 Navy Blue, N25 Lamp Black, N00 Colorless Blender"
+
+        },
+        {
+            "id" : 11,
+            "name" : "Tombow Dual Brush Pen Set 10 Potrait",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56170_1.jpg",
+            "price" : 370000,
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 020 Peach, 942 Tan, 990 Light Sand, 800 Baby Pink, 772 Blush, 912 Pale Cherry, 977 Saddle Brown, 969 Chocolate, N15 Black, N00 Colorless Blender"
+
+        },
+        {
+            "id" : 12,
+            "name" : "Tombow Dual Brush Pen Set 20 Floral",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56192_1.jpg",
+            "price" : 770000,
+            "stock" : 10,
+            "desc" : "Set of 19 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Include: 743 Hot Pink, 803 Pink Punch, 910 Opal, 835 Persimmon, 905 Red, 025 Light Orange, 090 Baby Yellow, 131 Lemon Lime, 192 Asparagus, 126 Light Olive, 195 Light Green, 291 Alice Blue, 403 Bright Blue, 407 Tiki Teal, 533 Peacock Blue, 515 Light Blue, 673 Orchid, 685 Deep Magenta, 569 Jet Blue, N00 Colorless Blender"
+
+        },
+        {
+            "id" : 13,
+            "name" : "Tombow Dual Brush Pen Set 20 Perfect Blends",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56193_1.jpg",
+            "price" : 770000,
+            "stock" : 10,
+            "desc" : "Set of 19 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Include: 845 Carmine, 925 Scarlet, 985 Chrome Yellow, 277 Dark Green, 195 Light Green, 173 Willow Green, 515 Light Blue, 452 Process Blue, 451 Sky Blue, 491 Glacier Blue, 676 Royal Purple, 665 Purple, 673 Orchid, 817 Mauve, 703 Pink Rose, 723 Pink, 401 Aqua, 403 Bright Blue, 407 Tiki Teal, N00 Colorless Blende"
+
+        },
+        {
+            "id" : 14,
+            "name" :"Tombow Dual Brush Pen Set 20 Neutral",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56194_1.jpg",
+            "price" : 770000,
+            "stock" : 10,
+            "desc" : "Set of 19 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 990 Light Sand, 992 Sand, 947 Burnt Sienna, 977 Saddle Brown, 899 Redwood, 027 Dark Ochre, N57 Warm Gray 5, N89 Warm Gray 1, N49 Warm Gray 8, N79 Warm Gray 2, N65  Cool Gray 5, N95 Cool Gray 1, N60 Cool Gray 6, N75 Cool Gray 3, N52 Cool Gray 8, N45 Cool Gray 10, N35 Cool Gray 12, N25 Lamp Black, N15 Black, N00 Colorless Blender"
+
+        },
+        {
+            "id" : 15,
+            "name" : "Tombow Fudenosuke Hard Tip",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_82038_1_3.jpg",
+            "price" : 30000,
+            "stock" : 10,
+            "desc" : "Fudenosuke Hard Tip Brush Pen features a firm yet flexible brush tip for different lettering and drawing techniques. Create extra-fine, fine or medium strokes by a change in brush pressure. Great for calligraphy and art drawings. Hard tip – water-based, pigmented black ink. Odorless. Non-refillable."
+
+        },
+        {
+            "id" : 16,
+            "name" : "Tombow Fudenosuke Soft Tip",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_82039_1_2.jpg",
+            "price" : 30000,
+            "stock" : 10,
+            "desc" : "Fudenosuke Soft Tip Brush Pen features a flexible brush tip for different lettering and drawing techniques. Create extra-fine, fine or medium strokes by a change in brush pressure. Great for calligraphy and art drawings. Soft tip – water-based, pigmented black ink. Odorless. Non-refillable."
+
+        },
+        {
+            "id" : 17,
+            "name" : "Tombow Dual Brush Pen",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/t/o/tom_56583_hotpink_1.jpg",
+            "price" : 30000,
+            "stock" : 10,
+            "desc" : "Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke.  108 colors available including a colorless blender for shading."
+
+        },
+        {
+            "id" : 18,
+            "name" : "Ecoline Brush Pen",
+            "category":"brush-pen",
+            "merk" : "ecoline",
+            "discount" : 0,
+            "img" : "https://www.royaltalens.com/media/5219524/tala5742.jpg?width=290&height=435&mode=max",
+            "price" :80000,
+            "stock" : 10,
+            "desc" : "Whether this involves artistic impressions, product design, illustrations, fashion design, calligraphy or children’s drawings, the brilliant colours of this liquid water colour paint bring every piece of art to life. • Available in 58 brilliant transparent colours and 2 opaque colours (white and gold) in 30 ml, 490 ml and 990 ml • The colour range includes the three primary colours lemon yellow (205), magenta (337) and sky blue cyan (578)• Handy Brush Pens are also available, ready for immediate use. Available in 59 colours. • Good adhesion to water colour and drawing paper and board • It is not waterproof when dry, so you can work on it “further” by wetting what is dry once more • Store the original works of art in a portfolio for optimal colour retention"
+        },
+        {
+            "id" : 19,
+            "name" : "Pentel Touch Sign",
+            "category":"brush-pen",
+            "merk" : "pentel",
+            "discount" : 0,
+            "img" : "https://static2.jetpens.com/images/a/000/037/37755.jpg?ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&w=600&s=fe9489ca611c20b46815049b147c1adb",
+            "price" : 25000,
+            "stock" : 10,
+            "desc" : "Create expressive drawings and write beautiful characters with this felt tip Pentel Fude Touch Sign Pen. It features a durable brush tip that offers good control while drawing varying line widths. The water-based dye ink flows smoothly and is available in a wide range of bright colors. This pen is a unique addition to any artist's box!"
+        },
+        {
+            "id" : 20,
+            "name" : "Pentel Touch Sign Set 12",
+            "category":"brush-pen",
+            "merk" : "pentel",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/5/20/1826262/1826262_e9096d69-f7b3-4be5-98cd-c6c958758c28.jpg",
+            "price" : 527500,
+            "stock" : 10,
+            "desc" : "Create expressive drawings and write beautiful characters with this felt tip Pentel Fude Touch Sign Pen. It features a durable brush tip that offers good control while drawing varying line widths. The water-based dye ink flows smoothly and is available in a wide range of bright colors. This pen is a unique addition to any artist's box!"
+        },
+        {
+            "id" : 21,
+            "name" : "Crayola Brush & Detail Dual Tip Markers, Calligraphy Set",
+            "category":"brush-pen",
+            "merk" : "crayola",
+            "discount" : 0,
+            "img" : "https://i.ebayimg.com/images/g/1QsAAOSwtglcZH4z/s-l300.png",
+            "price" :165000,
+            "stock" :10 ,
+            "desc" : "Customize your writing, drawing, and coloring with Crayola signature brush & detail dual-tip markers. Each dual-tip marker features a brush tip and an ultra-fine tip and delivers two vibrant complementary colors for twice the versatility and double the coloring fun. Perfect for artists of any age, The 16 dual-ended markers come in a decorative tin that helps ensure they stay in pristine condition between uses. Sketch, write, draw, and blend colors with the versatile Crayola signature brush & detail dual-tip markers."
+        },
+        {
+            "id" : 22,
+            "name" : "Sakura Koi Brush Pen",
+            "category":"brush-pen",
+            "merk" : "sakura",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/5/19/2338039/2338039_a8c84691-dba8-4258-bbd2-a966045115ce.jpg",
+            "price" : 20000,
+            "stock" : 10,
+            "desc" : "Use this coloring brush to add vibrant color to any sketch, journal, cartoon, illustration, or rubber stamp art. It performs similarly to an artist brush and features bright, dye-based ink. By changing the amount of pressure on the tip, you can create fine, medium, or broad strokes. The felt tip is durable and springs back quickly to its original shape. The odorless, water-based inks can be layered or blended using a colorless blender pen to create seamless gradations. Available in 48 colors + colorless blender"
+        },
+        {
+            "id" : 23,
+            "name" : "Sakura Koi Brush Pen Set 24",
+            "category":"brush-pen",
+            "merk" : "sakura",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2016/8/2/11151900/11151900_838a66eb-bd1c-42a2-9fdb-8901d50048b5.jpg",
+            "price" : 375000,
+            "stock" : 10 ,
+            "desc" : "Use this coloring brush to add vibrant color to any sketch, journal, cartoon, illustration, or rubber stamp art. It performs similarly to an artist brush and features bright, dye-based ink. By changing the amount of pressure on the tip, you can create fine, medium, or broad strokes. The felt tip is durable and springs back quickly to its original shape. The odorless, water-based inks can be layered or blended using a colorless blender pen to create seamless gradations."
+        },
+        {
+            "id" : 24,
+            "name" : "Sakura Koi Brush Pen Set 12",
+            "category":"brush-pen",
+            "merk" : "sakura",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/1/23/1579831/1579831_0c859b46-48e2-4e67-8a64-e40def91c870_600_600.jpg",
+            "price" : 175000,
+            "stock" : 10,
+            "desc" : "Use this coloring brush to add vibrant color to any sketch, journal, cartoon, illustration, or rubber stamp art. It performs similarly to an artist brush and features bright, dye-based ink. By changing the amount of pressure on the tip, you can create fine, medium, or broad strokes. The felt tip is durable and springs back quickly to its original shape. The odorless, water-based inks can be layered or blended using a colorless blender pen to create seamless gradations."
+        },
+        {
+            "id" : 25,
+            "name" : "Copic Gasenfude Brush Pen",
+            "category":"brush-pen",
+            "merk" : "copic",
+            "discount" : 10,
+            "img" : "https://copic.jp/images/product/fude.png",
+            "price" : 70000,
+            "stock" : 10,
+            "desc" : "Gasenfude brush pen has a fine synthetic brush nib (or “fude”) which creates expressive line variations for lettering or sketching. Water based pigment ink will not bleed with Copic markers. Rich and solid black ink provides amazing shading effect in your sketches, mangas and caricatures."
+        },
+        {
+            "id" : 26,
+            "name" : "Zebra Disposable Brush Pen - Extra Fine",
+            "category":"brush-pen",
+            "merk" : "zebra",
+            "discount" : 0,
+            "img" : "https://static2.jetpens.com/images/a/000/087/87130.jpg?ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&w=600&s=c061efad401c882696e8a86fb2115c50",
+            "price" :30000,
+            "stock" : 10,
+            "desc" : "Features a felt tip. Brush pens are great tools for manga artists as well as calligraphers. Convenient and perfect for on the go travel, these pens offer lush black color and varying lines widths depending on applied pressure."
+        },
+        {
+            "id" : 27,
+            "name" : "Zebra Disposable Brush Pen - Fine",
+            "category":"brush-pen",
+            "merk" : "zebra",
+            "discount" : 0,
+            "img" : "https://static2.jetpens.com/images/a/000/099/99892.jpg?ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&w=600&s=78bdf58cb63b74c22576a555ada55336",
+            "price" : 30000,
+            "stock" : 10,
+            "desc" : "Features a felt tip. Brush pens are great tools for manga artists as well as calligraphers. Convenient and perfect for on the go travel, these pens offer lush black color and varying lines widths depending on applied pressure."
+        },
+        {
+            "id" : 28,
+            "name" : "Zebra Disposable Brush Pen - Medium Fine",
+            "category":"brush-pen",
+            "merk" : "zebra",
+            "discount" : 20,
+            "img" : "https://static2.jetpens.com/images/a/000/087/87138.jpg?ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&w=600&s=db73fee4db44377d731ee27d46edc1f3",
+            "price" : 30000,
+            "stock" : 10,
+            "desc" : "Features a felt tip. Brush pens are great tools for manga artists as well as calligraphers. Convenient and perfect for on the go travel, these pens offer lush black color and varying lines widths depending on applied pressure."
+        },
+        {
+            "id" : 29,
+            "name" : "Sharpie Stained Brush Pen",
+            "category":"brush-pen",
+            "merk" : "sharpie",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/7/22/2132017/2132017_13e9adc6-7a64-4d3a-a8e6-f42916a1d273_1000_1000.jpg",
+            "price" : 23000,
+            "stock" : 10,
+            "desc" : "Stained by Sharpie™ features ink that’s specially designed to adhere to a wide variety of fabric surfaces. They have a brush tip that draws both thick and thin lines and vivid ink that resists fading during normal wash cycles. Make your clothing truly original with Stained by Sharpie™."
+        },
+        {
+            "id" : 30,
+            "name" : "Faber Castell Brush Pen Set 12",
+            "category":"brush-pen",
+            "merk" : "faber-castell",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2017/9/12/22326911/22326911_de0979ed-5e72-47dc-b153-9b4b67bbab77.jpg",
+            "price" :63000,
+            "stock" : 10,
+            "desc" : "Do you want to learn to write and draw Calligraphy techniques? Faber-Castell presents the Calligraphy Brush Pen for you.- soft brush tip creates thick and thin lines with brilliant colors - safe for children - water-based and easy to wash"
+        },
+        {
+            "id" : 31,
+            "name" : "Kuretake Zig Brush Fudeyori",
+            "category":"brush-pen",
+            "merk" : "kuretake",
+            "discount" : 10,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2016/9/16/55769940/55769940_9bfa73b0-c467-4809-aa44-b520a4467a20.jpg",
+            "price" : 20000,
+            "stock" : 10,
+            "desc" : "Create drawings in vibrant, traditional Japanese colors with Kuretake Fudebiyori Brush Pens. Their easy-to-use felt tips and built-in ink supplies combine the convenience of regular markers with the expressive line variation of traditional brushes. Use them for sketching, illustrations, coloring books, and postcards."
+        },
+        {
+            "id" : 32,
+            "name" : "Snowman Brush Pen Set 24",
+            "category":"brush-pen",
+            "merk" : "snowman",
+            "discount" : 20,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/8/3/7404816/7404816_f51f3ef7-60df-4510-bf47-06958c7d3ee5_800_800.png",
+            "price" : 138000,
+            "stock" : 10,
+            "desc" : "Used for doodling, illustrations and handwriting. Using water based (dyestuff) ink. Nib Type: Brush. Color : Black ,red, blue, green, light green, yellow, orange, light blue, pink, violet, purple, brown, redish brown, lemon yellow, gray, leaf green, pail pink, beige, sandy brown, brilliant yellow, crimson lake, bottle green, dark grey, olive."
+        },
+        {
+            "id" :33 ,
+            "name" : "Snowman Brush Pen Set 12",
+            "category":"brush-pen",
+            "merk" : "snowman",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2019/1/8/7540278/7540278_490918b7-7716-4f74-9d3f-6afa58108b14_800_800.png",
+            "price" : 70000,
+            "stock" : 10,
+            "desc" : "Used for doodling, illustrations and handwriting. Using water based (dyestuff) ink. Nib Type: Brush. Color : Black, red, blue, green,lgight green, yellow, orange,pink,light blue, violet, brown, reddish brown"
+        },
+        {
+            "id" : 34,
+            "name" : "Snowman Brush Pen",
+            "category":"brush-pen",
+            "merk" : "snowman",
+            "discount" : 50,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/9/5/7404816/7404816_aad16e2f-75f5-4f9a-a549-c12106f5ab95_800_800.png",
+            "price" :6500, 
+            "stock" : 10,
+            "desc" : "Used for doodling, illustrations and handwriting. Using water based (dyestuff) ink. Nib Type: Brush. Available color : Black ,red, blue, green, light green, yellow, orange, light blue, pink, violet, purple, brown, redish brown, lemon yellow, gray, leaf green, pail pink, beige, sandy brown, brilliant yellow, crimson lake, bottle green, dark grey, olive."
+        }
+
+    ],
+    "new-product" :[
+        {
+            "id": 1,
+            "name" : "Artline Stix",
+            "category" : "brush-pen",
+            "merk" : "artline",
+            "discount" : 10,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2016/9/9/1325149/1325149_d8cbf445-f019-4f55-850a-3044117d7f62.jpg           ",
+            "price" : 10000 , 
+            "stock" : 10,
+            "desc" : "ARTLINE STIX BRUSH MARKER Brush pen cocok digunakan untuk mewarnai, untuk menggambar, dan keperluan lainnya yang berhubungan dengan seni, tersedia dalam 20 varian warna"},
+        
+        {
+            "id" : 31,
+            "name" : "Kuretake Zig Brush Fudeyori",
+            "category":"brush-pen",
+            "merk" : "kuretake",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2016/9/16/55769940/55769940_9bfa73b0-c467-4809-aa44-b520a4467a20.jpg",
+            "price" : 20000,
+            "stock" : 10,
+            "desc" : "Create drawings in vibrant, traditional Japanese colors with Kuretake Fudebiyori Brush Pens. Their easy-to-use felt tips and built-in ink supplies combine the convenience of regular markers with the expressive line variation of traditional brushes. Use them for sketching, illustrations, coloring books, and postcards."
+        },  
+        {
+            "id" : 26,
+            "name" : "Zebra Disposable Brush Pen - Extra Fine",
+            "category":"brush-pen",
+            "merk" : "zebra",
+            "discount" : 0,
+            "img" : "https://static2.jetpens.com/images/a/000/087/87130.jpg?ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&w=600&s=c061efad401c882696e8a86fb2115c50",
+            "price" :30000,
+            "stock" : 10,
+            "desc" : "Features a felt tip. Brush pens are great tools for manga artists as well as calligraphers. Convenient and perfect for on the go travel, these pens offer lush black color and varying lines widths depending on applied pressure."
+        },
+        {
+            "id" : 27,
+            "name" : "Zebra Disposable Brush Pen - Fine",
+            "category":"brush-pen",
+            "merk" : "zebra",
+            "discount" : 0,
+            "img" : "https://static2.jetpens.com/images/a/000/099/99892.jpg?ba=middle%2Ccenter&balph=3&blend64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazIucG5n&bm=difference&bs=inherit&mark64=aHR0cDovL3d3dy5qZXRwZW5zLmNvbS9pbWFnZXMvYXNzZXRzL3dhdGVybWFyazEucG5n&markalign=top%2Cright&markalpha=30&markscale=16&q=90&w=600&s=78bdf58cb63b74c22576a555ada55336",
+            "price" : 30000,
+            "stock" : 10,
+            "desc" : "Features a felt tip. Brush pens are great tools for manga artists as well as calligraphers. Convenient and perfect for on the go travel, these pens offer lush black color and varying lines widths depending on applied pressure."
+        },
+        {
+            "id" : 22,
+            "name" : "Sakura Koi Brush Pen",
+            "category":"brush-pen",
+            "merk" : "sakura",
+            "discount" : 0,
+            "img" : "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/5/19/2338039/2338039_a8c84691-dba8-4258-bbd2-a966045115ce.jpg",
+            "price" : 20000,
+            "stock" : 10,
+            "desc" : "Use this coloring brush to add vibrant color to any sketch, journal, cartoon, illustration, or rubber stamp art. It performs similarly to an artist brush and features bright, dye-based ink. By changing the amount of pressure on the tip, you can create fine, medium, or broad strokes. The felt tip is durable and springs back quickly to its original shape. The odorless, water-based inks can be layered or blended using a colorless blender pen to create seamless gradations. Available in 48 colors + colorless blender"
+        },
+        {
+            "id" : 12,
+            "name" : "Tombow Dual Brush Pen Set 20 Floral",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56192_1.jpg",
+            "price" : 770000,
+            "stock" : 10,
+            "desc" : "Set of 19 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Include: 743 Hot Pink, 803 Pink Punch, 910 Opal, 835 Persimmon, 905 Red, 025 Light Orange, 090 Baby Yellow, 131 Lemon Lime, 192 Asparagus, 126 Light Olive, 195 Light Green, 291 Alice Blue, 403 Bright Blue, 407 Tiki Teal, 533 Peacock Blue, 515 Light Blue, 673 Orchid, 685 Deep Magenta, 569 Jet Blue, N00 Colorless Blender"
+
+        },
+        {
+            "id" : 10,
+            "name" : "Tombow Dual Brush Pen Set 10 Landscape",
+            "category" : "brush-pen",
+            "merk" : "tombow",
+            "discount" : 0,
+            "img" : "https://d1v72txp4rf8db.cloudfront.net/media/catalog/product/cache/b74395f3dea86789ca23abf7766ff8b9/t/o/tom_56169_1.jpg",
+            "price" : 370000,
+            "stock" : 10,
+            "desc" : "Set of 9 colors with colorless blender pen. Flexible brush tip and fine tip in one marker. Brush tip works like a paintbrush to create fine, medium or bold strokes; fine tip gives consistent lines. Dual Brush Pens are ideal for artists and crafters. The water-based ink is blendable and the resilient nylon brush retains it's point stroke after stroke. Colors Included: 990 Light Sand, 947 Burnt Sienna, 899 Redwood, N57 Warm Gray 5, 228 Gray Green, 249 Hunter Green, 526 True Blue, 528 Navy Blue, N25 Lamp Black, N00 Colorless Blender"
+
+        }
+    ]
+}
